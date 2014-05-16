@@ -1,6 +1,6 @@
 {
   "name": "getprop",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Property getter for objects which supports nesting i.e. x.y.z",
   "main": "index.js",
   "scripts": {

@@ -10,6 +10,8 @@ Property getter for objects which supports nesting i.e. x.y.z
 ## Usage
 
 ```js
+var get = require('getprop')
+
 var bob = {
   name: 'bob',
   friend: {
